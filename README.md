@@ -28,6 +28,11 @@ bash ./run.sh
 cd ..
 ```
 
+RFC 5869 Tests failed
+```bash
+hkdf_rfc5869_openssl.sh
+```
+
 Found 07.06.2025
 Mateusz Okulanis
 FPGArtktic@outlook.com
