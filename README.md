@@ -15,9 +15,13 @@ I am unable to pinpoint the exact cause of the problem, but my primary suspect i
 ## Steps to Reproduce
 
 ```bash
-bash ./bash/kdf.sh
-bash ./python/run.sh
-bash ./python-cryptodome/run.sh
+cd ./bash
+bash ./kdf.sh
+cd ./../python
+bash ./run.sh
+cd ./../pyton-cryptodome
+bash ./run.sh
+cd ..
 ```
 
 Found 07.06.2025
