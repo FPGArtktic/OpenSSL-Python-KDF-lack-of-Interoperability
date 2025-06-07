@@ -1,5 +1,9 @@
 # KDF Interoperability Issue between OpenSSL and Python Libraries
 
+## Github Issue
+
+https://github.com/openssl/openssl/issues/27785
+
 ## Problem Description
 
 While working on a project, I discovered a lack of interoperability in the KDF (Key Derivation Function) results between the OpenSSL CLI tool and the Python libraries: `pycryptodome` and `Crypto.Protocol.KDF`.
