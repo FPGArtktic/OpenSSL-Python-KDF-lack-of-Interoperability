@@ -12,7 +12,7 @@ I am unable to pinpoint the exact cause of the problem, but my primary suspect i
 
 ## Environment Configuration
 
-*   **Operating System:** Ubuntu 24.04 (running in Docker)
+*   **Operating System:** Ubuntu 24.04
 *   **OpenSSL:** 3.0.13 30 Jan 2024 (Library: OpenSSL 3.0.13 30 Jan 2024)
 *   **Python Environment:** Defined in `Dockerfile` (includes `pycryptodome` and `cryptography`)
 
