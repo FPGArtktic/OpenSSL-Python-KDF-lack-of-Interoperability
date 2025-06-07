@@ -20,6 +20,6 @@ bash ./python/run.sh
 bash ./python-cryptodome/run.sh
 ```
 
-Bug found 07.06.2025
+Found 07.06.2025
 Mateusz Okulanis
 FPGArtktic@outlook.com
